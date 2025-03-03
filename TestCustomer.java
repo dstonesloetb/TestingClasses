@@ -12,7 +12,7 @@ public class TestCustomer {
      // and toString method for the Customer class
      // using the sample customers in the FOOP Brief
 
-     // Create ArrayList for Customer 1 
+     // Create ArrayList for Customer 1 Health Conditions
 
      // Add Health conditions for Customer 1 to ArrayList
 
@@ -23,7 +23,7 @@ public class TestCustomer {
 
      //*******************************************
 
-    // Create ArrayList for Customer 2 
+    // Create ArrayList for Customer 2 Health Conditions
 
      // Add Health conditions for Customer 2 to ArrayList
 
@@ -35,7 +35,7 @@ public class TestCustomer {
 
      //*******************************************
 
-     // Create ArrayList for Customer 3
+     // Create ArrayList for Customer 3 Health Conditions
 
      // Add Health conditions for Customer 3 to ArrayList
 
@@ -46,7 +46,7 @@ public class TestCustomer {
 
      //*******************************************
 
-     // Create ArrayList for Customer 4
+     // Create ArrayList for Customer 4 Health Conditions
 
      // Add Health conditions for Customer 4 to ArrayList
 
@@ -57,7 +57,7 @@ public class TestCustomer {
 
     //*******************************************
 
-     // Create ArrayList for Customer 5
+     // Create ArrayList for Customer 5 Health Conditions
 
      // Add Health conditions for Customer 5 to ArrayList
 
@@ -68,7 +68,7 @@ public class TestCustomer {
 
     //*******************************************
 
-     // Create ArrayList for Customer 6
+     // Create ArrayList for Customer 6 Health Conditions
 
      // Add Health conditions for Customer 6 to ArrayList
 
