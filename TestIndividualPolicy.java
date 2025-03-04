@@ -21,7 +21,7 @@ public class TestIndividualPolicy {
      //Create IndividualPolicy 1
 
      //Calculate premium for individual policy 1
-     //e.g. p1.calculateTotal(c1); 
+     //e.g. ip1.calculateTotal(c1); 
 
      //Display Individual Policy 1
 
