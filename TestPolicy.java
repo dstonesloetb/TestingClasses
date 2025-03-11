@@ -12,8 +12,6 @@ public class TestPolicy {
      // and toString method for the Policy class
      // using the sample policies in the FOOP Brief
 
-     // Create ArrayList for Policy 1 
-
      //Create Policy 1 using full constructor
 
      //Display Policy1 using toString() method
