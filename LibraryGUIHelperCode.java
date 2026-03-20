@@ -23,7 +23,7 @@
                 
         //Check add member fields are not empty 
 
-        //Get member detals from form
+        //Get member detals from the form
 
         //Creat student member or staff member onject
 
