@@ -8,3 +8,6 @@
 
 ## Testing Library Back End
 +[Test Creating Loans](LibraryTest.java) | +[Testing LMS Console](LibraryConsole.java) 
+
+## Testing Library GUI
++[Library GUI Helper code](LibraryGUIHelperCode.java) 
