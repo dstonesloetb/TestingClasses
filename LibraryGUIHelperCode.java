@@ -173,7 +173,26 @@
         }
     }
 
+   // -------------------- BORROW / RETURN METHODS --------------------
+    private void borrowBook() {
+        Member member = selectMember();
+        Book book = selectBook();
 
+        if (member == null || book == null) return;
+
+        try {
+            Loan loan = new Loan(member, book);
+            outputArea.setText("Loan Successful:\n" + loan.getLoanDetails());
+        } catch (IllegalStateException ex) {
+            showError(ex.getMessage());
+        }
+    }
+
+    private void returnBook() {
+
+       //to be implemented
+     
+    }
 
 //Code to add to end of Library GUI before main method 
 
